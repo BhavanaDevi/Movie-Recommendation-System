@@ -12,7 +12,7 @@ The movie recommendation system is designed to provide users with personalized m
 
 ## Features
 Movie browsing and search
-Personalized movie recommendations
+/Personalized movie recommendations
 
 ## Dataset
 The system uses the Movie dataset, which includes a collection of 
