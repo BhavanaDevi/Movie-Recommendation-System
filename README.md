@@ -11,8 +11,8 @@ Dependencies
 The movie recommendation system is designed to provide users with personalized movie suggestions by analyzing their past interactions with movies and comparing them with the preferences of other users.
 
 ## Features
-Movie browsing and search
-/Personalized movie recommendations
+Movie browsing and search //
+Personalized movie recommendations
 
 ## Dataset
 The system uses the Movie dataset, which includes a collection of 
