@@ -1,20 +1,20 @@
-## Movie-Recommendation-System
+# Movie-Recommendation-System
 This project implements a movie recommendation system using machine learning techniques. The system suggests movies to users based on their preferences and viewing history.
 
-# Table of Contents
+## Table of Contents
 Introduction
 Features
 Dataset
 Dependencies
 
-# Introduction
+## Introduction
 The movie recommendation system is designed to provide users with personalized movie suggestions by analyzing their past interactions with movies and comparing them with the preferences of other users.
 
-# Features
+## Features
 Movie browsing and search
 Personalized movie recommendations
 
-# Dataset
+## Dataset
 The system uses the Movie dataset, which includes a collection of 
 ID: Movie ID number on the website.
 title: Movie name
@@ -26,10 +26,10 @@ release_date: Movie release date
 vote_average: Movie vote average
 vote_count: Movie vote count
 
-# Dependencies
+## Dependencies
 Python 3.7+
 
-# Results
+## Results
 Discuss the performance of the recommendation system, showcasing its accuracy and effectiveness in providing relevant movie suggestions.
 
 
