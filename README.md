@@ -4,11 +4,11 @@ This project implements a movie recommendation system using machine learning tec
 ## Table of Contents
 Introduction
 
-Features
+* Features
 
-Dataset
+* Dataset
 
-Dependencies
+* Dependencies
 
 ## Introduction
 The movie recommendation system is designed to provide users with personalized movie suggestions by analyzing their past interactions with movies and comparing them with the preferences of other users.
